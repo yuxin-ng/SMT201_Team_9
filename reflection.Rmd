@@ -1,0 +1,13 @@
+---
+title: "Reflection"
+description: |
+  This project has taught us a lot about different skills needed to design and build a city for the future. Each of our team members have penned down our insights that we have gained through the planning process.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+

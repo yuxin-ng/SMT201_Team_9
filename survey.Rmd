@@ -1,0 +1,14 @@
+---
+title: "Survey"
+description: |
+  A Survey of Indonesia's New National Capital Development Plan. Click the link below to access our Report!
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+

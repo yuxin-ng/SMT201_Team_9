@@ -1,0 +1,22 @@
+name: "SMT201_Team_9"
+title: "SMT201 Team 9"
+description: |
+  SMT201 Team 9
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Proposal"
+      href: proposal.html
+    - text: "Poster"
+      href: poster.html
+    - text: "Report"
+      menu: 
+        - text: 'Survey'
+          href: survey.html
+        - text: 'Site Selection'
+          href: site_selection.html
+    - text: "Reflection"
+      href: reflection.html
+output: distill::distill_article

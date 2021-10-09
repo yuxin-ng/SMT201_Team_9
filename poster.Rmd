@@ -1,0 +1,14 @@
+---
+title: "Poster"
+description: |
+  Poster of possible developments for East Kalimantan
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+

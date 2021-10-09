@@ -1,0 +1,29 @@
+---
+title: "About"
+description: |
+  Hey everyone we are a team of Smart-City Management and Technology Majors from Singapore Management University! This website documents our journey through developing a report and proposing recommendations for Indonesia's New National Capital Development Plan. Hope you enjoy!
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Our Team
+
+> Pictures and information about our team members
+
+## Indonesia as a whole
+
+> Overview of the Indonesian archipelago and its current capital Jakarta
+
+![](img/indonesia.png)
+
+## East Kalimantan and the need for change
+
+> Reasons behind Indonesia's desire to shift the location of the capital
+
+![](img/east_kalimantan.jpg)

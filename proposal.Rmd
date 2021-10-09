@@ -1,0 +1,31 @@
+---
+title: "Proposal"
+description: |
+  Here is our proposal for Indonesia's New National Capital Development Plan!
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## 1.0	Introduction 
+
+> brief overview of what our plans are
+
+## 2.0	Study Area
+  
+> information about Kutai Kartanegara and North Penajam Paser. 
+
+## 3.0 Chosen Site for Development
+
+> Our proposed location for the capital, reasons for choosing it and proposed developments, including smart-city initiatives
+
+
+
+
+
+
+
