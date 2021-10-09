@@ -27,3 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 > Reasons behind Indonesia's desire to shift the location of the capital
 
 ![](img/east_kalimantan.jpg)
+
+
+
+
