@@ -16,18 +16,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > Pictures and information about our team members
 
-## Indonesia as a whole
-
-> Overview of the Indonesian archipelago and its current capital Jakarta
-
-![](img/indonesia.png)
-
 ## East Kalimantan and the need for change
 
 > Reasons behind Indonesia's desire to shift the location of the capital
 
 ![](img/east_kalimantan.jpg)
+Jakarta, the current capital, has been sinking over 10cm a year and is now prone to floods more than ever. It is prone to earthquakes and traffic gridlocks within the city have long been an issue.
 
+As such, the Indonesian government has decided to shift its capital and has picked East Kalimantan, on the island of Borneo, as the new site. The exact location is still unknown but it is currently nicknamed “Ibu Kota Negara” which directly translates to “New Capital”.
 
 
 
