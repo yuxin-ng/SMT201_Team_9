@@ -19,6 +19,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## East Kalimantan and the need for change
 
 ![](img/east_kalimantan.jpg)
-Jakarta, the current capital, has been sinking over 10cm a year and is now prone to floods more than ever. It is prone to earthquakes and traffic gridlocks within the city have long been an issue.
+Jakarta, the current capital, has been sinking over 10cm a year and is now prone to floods more than ever. It is prone to earthquakes and traffic gridlocks within the city have long been an
 
 As such, the Indonesian government has decided to shift its capital and has picked East Kalimantan, on the island of Borneo, as the new site. The exact location is still unknown but it is currently nicknamed “Ibu Kota Negara” which directly translates to “New Capital”.
