@@ -15,6 +15,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > brief overview of what our plans are
 
+**Part A**
+
+Produce a report of survey that conveys information on:
+
+ 1. Population and Demographic
+ 2. Economic and Business
+ 3. Transport and Communication
+ 4. Infrastructure 
+ 5. Environment and Hazard
+
+**Part B**
+
+Identify a suitable location for the Ibu Kota Negara.
+
+
 ## 2.0	Study Area
   
 > information about Kutai Kartanegara and North Penajam Paser. 
