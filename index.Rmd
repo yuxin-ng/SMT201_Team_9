@@ -16,9 +16,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > Pictures and information about our team members
 
-## East Kalimantan and the need for change
+## 1. Background of Jakarta and the need for change
 
 ![](img/east_kalimantan.jpg)
-Jakarta, the current capital, has been sinking over 10cm a year and is now prone to floods more than ever. It is prone to earthquakes and traffic gridlocks within the city have long been an issue.
+Jakarta, the current capital, has been sinking over 10cm a year and is now prone to floods more than ever. It is prone to earthquakes and traffic gridlocks within the city have long been an issue. The imminent dangers posed to the livelihoods of the city's 30 million people and the inevitable reality that Jakarta would eventually be submerged has resulted in  Jakarta's status as Indonesia's capital to be unsustainable.
 
 As such, the Indonesian government has decided to shift its capital and has picked East Kalimantan, on the island of Borneo, as the new site. The exact location is still unknown but it is currently nicknamed “Ibu Kota Negara” which directly translates to “New Capital”.
+
+## 2. East Kalimantan
+Located in Borneo, East Kalimantan - specifically Penajam Paser Utara and Kutai Kartenegara districts - offers various pre-existing benefits: 
+
+1. Relatively less prone to forest fires and natural disasters
+2. Situated at Indonesia's centre
+3. Balikpapan and Samarinda cities contain sizeable seaports and airports 
+4. Well connected to rest of island with highways 
+
+With a new capital site decided, the move would assist in easing the massive burden on Jakarta, while bringing life to the (now) relatively quiet site of East Kalimantan. 
+
+## 3. Gantt Chart of Proposed Timeline and Schedule
